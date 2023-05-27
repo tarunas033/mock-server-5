@@ -1,46 +1,17 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "John Doe",
-      "email": "john@example.com",
-      "password": "password",
-      "profession": "Web Developer",
-      "skills": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ],
-      "hourly_rate": 25,
-      "profile_picture": "profile1.jpg",
-      "isBooked": true
-    },
-    {
       "id": 2,
       "name": "Jane Smith",
       "email": "jane@example.com",
       "password": "password",
-      "profession": "Graphic Designer",
+      "profession": "Banker",
       "skills": [
-        "Photoshop",
-        "Illustrator"
+        "Finance"
       ],
-      "hourly_rate": 30,
+      "hourly_rate": "38",
       "profile_picture": "profile2.jpg",
       "isBooked": true
-    },
-    {
-      "name": "taruna",
-      "profile_picture": "C:\\fakepath\\image-5.jpg",
-      "email": "tarunas033@gmail.com",
-      "password": "Taruna",
-      "profession": "Student",
-      "skills": [
-        "HTML"
-      ],
-      "hourly_rate": 10,
-      "isBooked": true,
-      "id": 3
     },
     {
       "name": "Dheeraj",
@@ -65,8 +36,62 @@
         "Fashion"
       ],
       "hourly_rate": 80,
-      "isBooked": false,
+      "isBooked": true,
       "id": 5
+    },
+    {
+      "name": "Bhuvan jangra",
+      "profile_picture": "C:\\fakepath\\PP.jpg",
+      "email": "eve.holt@reqres.in",
+      "password": "Taruna",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 2,
+      "isBooked": true,
+      "id": 6
+    },
+    {
+      "name": "Renu",
+      "profile_picture": "C:\\fakepath\\image-1.jpg",
+      "email": "renu@yahoo.in",
+      "password": "Renu",
+      "profession": "Teacher",
+      "skills": [
+        "Teaching"
+      ],
+      "hourly_rate": 17,
+      "isBooked": false,
+      "id": 7
+    },
+    {
+      "name": "Sucheta",
+      "profile_picture": "C:\\fakepath\\image-4.jpg",
+      "email": "suchu@gmail.com",
+      "password": "Suchu",
+      "profession": "Banker",
+      "skills": [
+        "Finance"
+      ],
+      "hourly_rate": 99,
+      "isBooked": false,
+      "id": 8
+    },
+    {
+      "name": "Uma Sharma",
+      "profile_picture": "C:\\fakepath\\image-5.jpg",
+      "email": "Uma@gmail.com",
+      "password": "Uma",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Designer"
+      ],
+      "hourly_rate": 150,
+      "isBooked": false,
+      "id": 9
     }
   ]
 }
