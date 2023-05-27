@@ -13,7 +13,7 @@
       ],
       "hourly_rate": 25,
       "profile_picture": "profile1.jpg",
-      "isBooked": false
+      "isBooked": true
     },
     {
       "id": 2,
@@ -39,8 +39,34 @@
         "HTML"
       ],
       "hourly_rate": 10,
-      "isBooked": false,
+      "isBooked": true,
       "id": 3
+    },
+    {
+      "name": "Dheeraj",
+      "profile_picture": "C:\\fakepath\\image-1.jpg",
+      "email": "dheeraj267@gmail.com",
+      "password": "Dheeraj",
+      "profession": "Web Developer",
+      "skills": [
+        "CSS"
+      ],
+      "hourly_rate": 50,
+      "isBooked": true,
+      "id": 4
+    },
+    {
+      "name": "Tinki",
+      "profile_picture": "C:\\fakepath\\image-2.jpg",
+      "email": "tinki@gmail.com",
+      "password": "Tinki",
+      "profession": "Web Developer",
+      "skills": [
+        "Fashion"
+      ],
+      "hourly_rate": 80,
+      "isBooked": false,
+      "id": 5
     }
   ]
 }
