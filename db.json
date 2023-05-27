@@ -1,29 +1,46 @@
-
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "John Doe",
-        "email": "john@example.com",
-        "password": "password",
-        "profession": "Web Developer",
-        "skills": ["HTML", "CSS", "JavaScript"],
-        "hourly_rate": 25,
-        "profile_picture": "profile1.jpg",
-              "isBooked" : false
-      },
-      {
-        "id": 2,
-        "name": "Jane Smith",
-        "email": "jane@example.com",
-        "password": "password",
-        "profession": "Graphic Designer",
-        "skills": ["Photoshop", "Illustrator"],
-        "hourly_rate": 30,
-        "profile_picture": "profile2.jpg",
-              "isBooked" : true
-      }
-    ]
-  }
-
- 
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password",
+      "profession": "Web Developer",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "hourly_rate": 25,
+      "profile_picture": "profile1.jpg",
+      "isBooked": false
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "password",
+      "profession": "Graphic Designer",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "hourly_rate": 30,
+      "profile_picture": "profile2.jpg",
+      "isBooked": true
+    },
+    {
+      "name": "taruna",
+      "profile_picture": "C:\\fakepath\\image-5.jpg",
+      "email": "tarunas033@gmail.com",
+      "password": "Taruna",
+      "profession": "Student",
+      "skills": [
+        "HTML"
+      ],
+      "hourly_rate": 10,
+      "isBooked": false,
+      "id": 3
+    }
+  ]
+}
